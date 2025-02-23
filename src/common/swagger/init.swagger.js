@@ -3,7 +3,7 @@ import video from "./video.swagger.js";
 const swaggerDocument = {
    openapi: "3.1.0",
    info: {
-      title: "Be Cyber Media",
+      title: "Be Cyber Media anh long dệp trai",
       version: "123123123123123",
    },
    servers: [
